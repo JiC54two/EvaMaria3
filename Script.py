@@ -14,14 +14,12 @@ class script(object):
 - This is aN open source project. 
 - Source - https://github.com/EvamariaTG/EvaMaria  
 
-<b>DEVELOPED BY:</b>
-- <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
-    
-<b>MAINTAINANED:</b>
-- <a href=https://t.me/JiC54>JiC54</a>"""
-    
-<b>CREDITS:</b>
-- <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
+<b>DEVS:</b>
+- <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>
+
+MAINTAINED BY <a href=https://t.me/JiC54>JiC54</a>
+
+CREDITS TO THE DEVS"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
