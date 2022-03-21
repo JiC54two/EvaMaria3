@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙻𝙾 {}, HOPE YOU ARE GOOD.
+    START_TXT = """𝙷𝙴𝙻𝙻𝙾 {},
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
@@ -11,11 +11,18 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
+- This is aN open source project. 
 - Source - https://github.com/EvamariaTG/EvaMaria  
 
-<b>DEVS:</b>
+<b>DEVELOPED BY:</b>
 - <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
+    
+<b>MAINTAINANED:</b>
+- <a href=https://t.me/JiC54>JiC54</a>"""
+    
+<b>CREDITS:</b>
+- <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
+    
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
